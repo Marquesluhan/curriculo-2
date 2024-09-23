@@ -1,0 +1,13 @@
+body { 
+background-color: rgb(156, 156, 154);
+}
+p { 
+margin-bottom: 1em;
+line-height: 1.5;
+}
+h1{
+    margin-bottom: 0.5em;
+}
+ul li {
+    margin-bottom: 0.8;
+}
